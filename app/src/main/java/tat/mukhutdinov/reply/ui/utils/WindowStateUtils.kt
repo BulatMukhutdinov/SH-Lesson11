@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11.ui.utils
+package tat.mukhutdinov.reply.ui.utils
 
 enum class ReplyNavigationType {
     BOTTOM_NAVIGATION,

@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11.ui
+package tat.mukhutdinov.reply.ui
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.background
@@ -37,12 +37,12 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
-import tat.mukhutdinov.lesson11.R
-import tat.mukhutdinov.lesson11.data.Email
-import tat.mukhutdinov.lesson11.data.MailboxType
-import tat.mukhutdinov.lesson11.data.local.LocalAccountsDataProvider
-import tat.mukhutdinov.lesson11.ui.utils.ReplyContentType
-import tat.mukhutdinov.lesson11.ui.utils.ReplyNavigationType
+import tat.mukhutdinov.reply.R
+import tat.mukhutdinov.reply.data.Email
+import tat.mukhutdinov.reply.data.MailboxType
+import tat.mukhutdinov.reply.data.local.LocalAccountsDataProvider
+import tat.mukhutdinov.reply.ui.utils.ReplyContentType
+import tat.mukhutdinov.reply.ui.utils.ReplyNavigationType
 
 @Composable
 fun ReplyHomeScreen(

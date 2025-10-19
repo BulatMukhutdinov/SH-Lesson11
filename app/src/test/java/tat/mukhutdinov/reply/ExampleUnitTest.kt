@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11
+package tat.mukhutdinov.reply
 
 import org.junit.Test
 

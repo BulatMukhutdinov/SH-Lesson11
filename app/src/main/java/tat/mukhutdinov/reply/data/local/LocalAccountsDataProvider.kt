@@ -1,7 +1,7 @@
-package tat.mukhutdinov.lesson11.data.local
+package tat.mukhutdinov.reply.data.local
 
-import tat.mukhutdinov.lesson11.R
-import tat.mukhutdinov.lesson11.data.Account
+import tat.mukhutdinov.reply.R
+import tat.mukhutdinov.reply.data.Account
 
 /**
  * An static data store of [Account]s. This includes both [Account]s owned by the current user and
