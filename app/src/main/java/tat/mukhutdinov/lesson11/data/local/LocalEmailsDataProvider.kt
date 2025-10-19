@@ -1,8 +1,8 @@
 package tat.mukhutdinov.lesson11.data.local
 
+import tat.mukhutdinov.lesson11.R
 import tat.mukhutdinov.lesson11.data.Email
 import tat.mukhutdinov.lesson11.data.MailboxType
-import tat.mukhutdinov.lesson11.R
 
 /**
  * A static data store of [Email]s.
