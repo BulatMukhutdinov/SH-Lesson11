@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson13.ui
+package tat.mukhutdinov.lesson11.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -31,10 +31,10 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
-import tat.mukhutdinov.lesson13.R
-import tat.mukhutdinov.lesson13.data.Email
-import tat.mukhutdinov.lesson13.data.MailboxType
-import tat.mukhutdinov.lesson13.data.local.LocalAccountsDataProvider
+import tat.mukhutdinov.lesson11.R
+import tat.mukhutdinov.lesson11.data.Email
+import tat.mukhutdinov.lesson11.data.MailboxType
+import tat.mukhutdinov.lesson11.data.local.LocalAccountsDataProvider
 
 @Composable
 fun ReplyHomeScreen(

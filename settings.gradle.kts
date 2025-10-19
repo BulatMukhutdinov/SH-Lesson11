@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lesson13"
+rootProject.name = "Lesson11"
 include(":app")

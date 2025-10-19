@@ -1,8 +1,8 @@
-package tat.mukhutdinov.lesson13.ui
+package tat.mukhutdinov.lesson11.ui
 
-import tat.mukhutdinov.lesson13.data.Email
-import tat.mukhutdinov.lesson13.data.MailboxType
-import tat.mukhutdinov.lesson13.data.local.LocalEmailsDataProvider
+import tat.mukhutdinov.lesson11.data.Email
+import tat.mukhutdinov.lesson11.data.MailboxType
+import tat.mukhutdinov.lesson11.data.local.LocalEmailsDataProvider
 
 data class ReplyUiState(
     val mailboxes: Map<MailboxType, List<Email>> = emptyMap(),

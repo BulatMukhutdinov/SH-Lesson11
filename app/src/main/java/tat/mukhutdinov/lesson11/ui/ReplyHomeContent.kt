@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson13.ui
+package tat.mukhutdinov.lesson11.ui
 
 import android.app.Activity
 import androidx.annotation.DrawableRes
@@ -33,9 +33,9 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextOverflow
-import tat.mukhutdinov.lesson13.R
-import tat.mukhutdinov.lesson13.data.Email
-import tat.mukhutdinov.lesson13.data.local.LocalAccountsDataProvider
+import tat.mukhutdinov.lesson11.R
+import tat.mukhutdinov.lesson11.data.Email
+import tat.mukhutdinov.lesson11.data.local.LocalAccountsDataProvider
 
 @Composable
 fun ReplyListOnlyContent(
