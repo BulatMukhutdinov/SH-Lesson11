@@ -1,11 +1,11 @@
-package tat.mukhutdinov.lesson11.ui
+package tat.mukhutdinov.reply.ui
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
-import tat.mukhutdinov.lesson11.data.Email
-import tat.mukhutdinov.lesson11.data.MailboxType
+import tat.mukhutdinov.reply.data.Email
+import tat.mukhutdinov.reply.data.MailboxType
 
 @Composable
 fun ReplyApp(

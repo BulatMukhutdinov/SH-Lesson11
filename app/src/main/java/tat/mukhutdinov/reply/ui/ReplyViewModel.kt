@@ -1,12 +1,12 @@
-package tat.mukhutdinov.lesson11.ui
+package tat.mukhutdinov.reply.ui
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.update
-import tat.mukhutdinov.lesson11.data.Email
-import tat.mukhutdinov.lesson11.data.MailboxType
-import tat.mukhutdinov.lesson11.data.local.LocalEmailsDataProvider
+import tat.mukhutdinov.reply.data.Email
+import tat.mukhutdinov.reply.data.MailboxType
+import tat.mukhutdinov.reply.data.local.LocalEmailsDataProvider
 
 class ReplyViewModel : ViewModel() {
 

@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11.ui
+package tat.mukhutdinov.reply.ui
 
 import android.widget.Toast
 import androidx.compose.foundation.background
@@ -32,9 +32,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
-import tat.mukhutdinov.lesson11.R
-import tat.mukhutdinov.lesson11.data.Email
-import tat.mukhutdinov.lesson11.data.MailboxType
+import tat.mukhutdinov.reply.R
+import tat.mukhutdinov.reply.data.Email
+import tat.mukhutdinov.reply.data.MailboxType
 
 @Composable
 fun ReplyDetailsScreen(

@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11.data
+package tat.mukhutdinov.reply.data
 
 import androidx.annotation.StringRes
 

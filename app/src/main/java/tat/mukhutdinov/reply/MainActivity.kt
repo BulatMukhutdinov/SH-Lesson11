@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11
+package tat.mukhutdinov.reply
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -15,8 +15,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalLayoutDirection
 import androidx.compose.ui.tooling.preview.Preview
-import tat.mukhutdinov.lesson11.ui.ReplyApp
-import tat.mukhutdinov.lesson11.ui.theme.ReplyTheme
+import tat.mukhutdinov.reply.ui.ReplyApp
+import tat.mukhutdinov.reply.ui.theme.ReplyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

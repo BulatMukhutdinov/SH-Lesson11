@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson11.data
+package tat.mukhutdinov.reply.data
 
 /**
  * An enum class to define different types of email folders or categories.
