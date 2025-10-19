@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "tat.mukhutdinov.reply"
+    namespace = "tat.mukhutdinov.sports"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "tat.mukhutdinov.reply"
+        applicationId = "tat.mukhutdinov.sports"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
